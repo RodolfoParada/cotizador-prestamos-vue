@@ -1,4 +1,4 @@
-# Vue 3 + Vite
+# Vue 3 + Vite + Tailwindcss
 **Crear proyecto vue + vite**
 ```
 npm create vite@latest
